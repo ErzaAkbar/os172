@@ -1,0 +1,2 @@
+Minggu lalu kami melakukan registrasi ke akun github. Setelah berhasil terdaftar, kami melakukan login ke server badak melalui ssh menggunakan akun siak yang telah diregistrasi
+
