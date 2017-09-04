@@ -21,3 +21,4 @@ drwxr-xr-x  2 erza.akbar StafCS 4096 Sep  4 12:43 week10
 drwxr-xr-x  2 erza.akbar StafCS 4096 Sep  4 12:44 xtra
 /home/fasilkom/mahasiswa/e/erza.akbar/os172/week01
 /home/fasilkom/mahasiswa/e/erza.akbar/os172/week01
+Today is 04 Sep 2017 at 14:26:32
